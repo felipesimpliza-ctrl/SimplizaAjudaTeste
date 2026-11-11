@@ -2,11 +2,11 @@
 description: Aqui voce vera seus primeiros passos de uso do Sistema.
 ---
 
-# 🚀 Bem Vindo ao Sistema Simpliza!
+# 🚀 Seja Bem Vindo ao Sistema Simpliza!
 
 &#x20;Primeiramente para que possa acessar o Sistema, utilize este link: [https://pdvsimpliza.com.br/](https://pdvsimpliza.com.br/)\
 \
-Nessa pagina em seu navegador, aplique os dados de acesso que lhe sao enviados pelo nosso time de Implantacao do Sistema.
+Nessa pagina em seu navegador, aplique os dados de acesso que lhe sao enviados pelo nosso time de Implantação do Sistema.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

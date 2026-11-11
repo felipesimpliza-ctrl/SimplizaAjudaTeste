@@ -26,7 +26,7 @@
   * [Credenciamento em Santa Catarina](fiscal/credenciamento-santa-catarina.md)
   * [Exportar XML das notas emitidas](fiscal/exportar-xml-notas.md)
   * [Tributação e NCM](fiscal/tributacao-e-ncm.md)
-* [🖨️ Impressão e Equipamentos](impressao-e-equipamentos/README.md)
+* [🖨️ Impressoras e Equipamentos](impressao-e-equipamentos/README.md)
   * [Instalar o AnyDesk para suporte remoto](impressao-e-equipamentos/anydesk.md)
   * [Cadastrar impressora de produção, bar ou cozinha](impressao-e-equipamentos/cadastrar-impressora-producao.md)
   * [Configurar Elgin i7/i9](impressao-e-equipamentos/configurar-elgin-i7-i9.md)
