@@ -1,8 +1,12 @@
 ---
 description: >-
-  Aqui voce vera por onde iniciar o processo de configuracao e gestao do
-  Sistema.
+  Aqui é onde você estrutura a vitrine do seu estabelecimento, facilitando tanto
+  a operação da sua equipe quanto a experiência de compra dos seus clientes.
 ---
 
-# 🛒 Cardapio e Produtos
+# 🛒 Cardápio e Produtos
+
+
+
+
 
