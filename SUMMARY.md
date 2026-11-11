@@ -2,7 +2,9 @@
 
 * [🚀 Bem Vindo ao Sistema Simpliza!](README.md)
 * [🛒 Cardápio e Produtos](cardapioeprodutos/README.md)
-  * [Como Cadastrar Produtos e Categorias](cardapioeprodutos/cadastrdeprodutos.md)
+  * [Como cadastrar: Produtos e Categorias](cardapioeprodutos/cadastrdeprodutos.md)
+  * [Como cadastrar: Adicionais](cardapioeprodutos/como-cadastrar-adicionais.md)
+  * [Como cadastrar: Pizza](cardapioeprodutos/como-cadastrar-pizza.md)
 * [🍽️ Vendas e Atendimento](vendas-e-atendimento/README.md)
   * [Venda Balcao](vendas-e-atendimento/balcao.md)
   * [Alterar a identificação da mesa ou comanda pelo aplicativo do Garçom](vendas-e-atendimento/alterar-identificacao-mesa-comanda.md)

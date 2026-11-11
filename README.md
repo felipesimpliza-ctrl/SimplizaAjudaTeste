@@ -1,5 +1,5 @@
 ---
-description: Aqui voce vera seus primeiros passos de uso do Sistema.
+description: Aqui você verá seus primeiros passos de uso do Sistema.
 ---
 
 # 🚀 Bem Vindo ao Sistema Simpliza!
@@ -19,7 +19,7 @@ Após o seu primeiro LOGIN você será direcionado ao Dashboard do Simpliza, um 
 \
 Depois do seu primeiro acesso ao Sistema, caso tenha configurado seu cardápio e produtos, você terá acesso ao seu PDV, onde serão realizadas as suas vendas.\
 \
-De forma rápida, disponibilizamos um botão de atalho ''Acessar o PDV'' Localizado no canto superior.<br>
+De forma rápida, disponibilizamos um botão de atalho **ACESSAR O PDV** localizado no canto superior.<br>
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
