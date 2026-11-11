@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🚀 Seja Bem Vindo ao Sistema Simpliza!](README.md)
+* [🚀 Bem Vindo ao Sistema Simpliza!](README.md)
 * [🛒 Cardapio e Produtos](cardapioeprodutos/README.md)
   * [Como Cadastrar Produtos e Categorias](cardapioeprodutos/cadastrdeprodutos.md)
 * [🍽️ Vendas e Atendimento](vendas-e-atendimento/README.md)
