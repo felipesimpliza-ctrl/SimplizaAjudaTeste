@@ -1,10 +1,11 @@
 ---
 description: >-
-  As vendas do Tipo Balcao sao usadas em casos rapidos, onde o cliente nao ocupa
-  uma mesa ou grande tempo no estabelecimento, realizando o pagamento imediato.
+  O módulo de venda Balcão é indicado para atendimentos rápidos, nos quais o
+  cliente realiza o pedido e efetua o pagamento logo em seguida, sem a
+  necessidade de utilizar uma mesa ou comanda.
 ---
 
-# Venda Balcao
+# Como Realizar Vendas no Modulo Balcão
 
 {% embed url="https://youtu.be/kVea-DA-W9U?si=GpGKB5qMK_VzX2IM" %}
 
