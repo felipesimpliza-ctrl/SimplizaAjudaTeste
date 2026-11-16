@@ -1,7 +1,3 @@
----
-description: 'Veja agora o passo a passo de como cadastrar pizzas no Sistema Simpliza:'
----
-
 # Como cadastrar: Pizza
 
 #### 1. Primeiro acesse o sistema utilizando o link e aplique os dados de administrador:
