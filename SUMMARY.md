@@ -4,6 +4,7 @@
 * [🛒 Cardápio e Produtos](cardapioeprodutos/README.md)
   * [Como cadastrar: Produtos e Categorias](cardapioeprodutos/cadastrdeprodutos.md)
   * [Como cadastrar: Adicionais](cardapioeprodutos/como-cadastrar-adicionais.md)
+  * [Como cadastrar: Observações](cardapioeprodutos/como-cadastrar-observacoes.md)
   * [Como cadastrar: Pizza](cardapioeprodutos/como-cadastrar-pizza.md)
 * [🍽️ Vendas e Atendimento](vendas-e-atendimento/README.md)
   * [Venda Balcao](vendas-e-atendimento/balcao.md)
