@@ -7,6 +7,7 @@
   * [Como cadastrar: Observações](cardapioeprodutos/como-cadastrar-observacoes.md)
   * [Como cadastrar: Pizza](cardapioeprodutos/como-cadastrar-pizza.md)
   * [Como cadastrar: Bordas e Massas](cardapioeprodutos/como-cadastrar-bordas-e-massas.md)
+  * [Como Ordenar: Categorias, Itens e Adicionais](cardapioeprodutos/como-ordenar-categorias-itens-e-adicionais.md)
 * [🍽️ Vendas e Atendimento](vendas-e-atendimento/README.md)
   * [Venda Balcao](vendas-e-atendimento/balcao.md)
   * [Alterar a identificação da mesa ou comanda pelo aplicativo do Garçom](vendas-e-atendimento/alterar-identificacao-mesa-comanda.md)
