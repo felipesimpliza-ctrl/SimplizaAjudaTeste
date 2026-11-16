@@ -1,5 +1,9 @@
 # Como Ordenar: Categorias, Itens e Adicionais
 
+#### **Vídeo Explicativo:**
+
+{% embed url="https://www.youtube.com/watch?v=A04veVjAgIg" %}
+
 #### 1. Primeiro acesse o sistema utilizando o link e aplique os dados de administrador:
 
 Link de acesso: [https://pdvsimpliza.com.br/](https://pdvsimpliza.com.br/)
